@@ -31,6 +31,7 @@ This is what the final setup looks like. While in use, the flask sits on the sti
 
 ### Some useful links:
 
+* [The pdf guide](PFGE.pdf)
 * [Bioi-Rad Pulsewave 760 field inverter](https://www.ebay.com/sch/sis.html?_nkw=BIO+RAD+Pulsewave+760+1703603+Field+Switcher+C&_itemId=181566847281&_trksid=p2047675.m4099)
 * [Bio-Rad Pulsewave 760 manual](Pulsewave760manual.pdf)
 * [Bio-Rad Variable Speed Buffer Recirculation Pump](https://www.ebay.com/sch/i.html?_nkw=biorad+variable+speed+buffer+recirculation+pump)
