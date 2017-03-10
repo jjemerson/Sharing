@@ -6,7 +6,7 @@ In doing long molecule sequencing, we've found that we have to evaluate the DNA 
 
 So, here is the information for how we are running PGFE. [I have prepared a pdf](PFGE.pdf) which contains three pairs of pages. The first pair reviews plumbing, the next pair wiring, and the final pair, troubleshooting of wiring. 
 
-First, a note on price. We got lucky, and the total price for the items on eBay were $200 for the Pulsewave 760 and $50 for the buffer recirculation pump. The prices do fluctuate quite a bit. I assume you already have access to a gel rig with buffer recirculation ports and a chromatography fridge. In case you don't have that kind of gel rig, you can get a new one for less than $500 (linked below). If you don't have the chromatography fridge, then you'll have to get a buffer chiller, an ice bucked, or run at room temperature.
+First, a note on price. We got lucky, and the total price for the items on eBay were $200 for the Pulsewave 760 and $50 for the buffer recirculation pump. The prices do fluctuate quite a bit. I assume you already have access to a gel rig with buffer recirculation ports and a chromatography fridge. In case you don't have that kind of gel rig, you can get a new one for less than $500 (linked below). If you don't have the chromatography fridge, then you'll have to get a buffer chiller, an ice bucket, or run at room temperature.
 
 ### Caution & Disclaimer
 
@@ -18,7 +18,7 @@ Buffer recirculation is necessary to prevent a temperature gradient forming duri
 
 ### Wiring
 
-You plug the power supply into the back of the Pulsewave. When they are connected, the power supply should never be on when the Pulsewave is off. Read the disclaimer above again. To me, it seemed odd to connect Block A and Block B the way I have shown. However, we did it and it worked well enough to result in the gels you've seen. Also, read the Pulsewave manual.
+You plug the power supply into the back of the Pulsewave. When they are connected, the power supply should never be on when the Pulsewave is off. Read the disclaimer above again. To me, it seemed odd to connect Block A and Block B the way I have shown. However, we did it and it worked well enough to result in the gel [we've published](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100563/figure/F1/). Also, read the [Pulsewave manual](Pulsewave760manual.pdf).
 
 ### Troubleshooting
 
