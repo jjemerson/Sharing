@@ -14,7 +14,7 @@ The setup I describe works for us, but do your own sanity check and make sure it
 
 ### Plumbing
 
-Buffer recirculation is necessary to prevent a temperature gradient forming during an extremely long run. I have added a 1 L flask with extra buffer to the loop just to make sure that extremely long runs can be accomplished without having to change the buffer mid-run. This may be optional or not depending on your buffer and run time. This isn't particularly necessary unless you have really long runs and are using TAE. Under such circumstances, TAE's buffering capacity can be exhausted, apparently. You'll need to get appropriate fittings to get all of the plumbing to work. Since we run the whole experiment in a chromatography fridge at 4C, we don't need a chiller. FYI, most protocols run at 13-15C. We're doing fine at 4C, though. You'll probably need to calibrate the pump. We run ours at 0.5-1.0 L / min (around 70-90 on our dial).
+Buffer recirculation is necessary to maintain contant pH and temperature during an extremely long run. I have added a 1 L flask with extra buffer to the loop just to make sure that extremely long runs can be accomplished without having to change the buffer mid-run. This may be optional or not depending on your buffer and run time. This isn't particularly necessary unless you have really long runs and are using TAE. Under such circumstances, TAE's buffering capacity can be exhausted, apparently. You'll need to get appropriate fittings to get all of the plumbing to work. Since we run the whole experiment in a chromatography fridge at 4C, we don't need a chiller. FYI, most protocols run at 13-15C. We're doing fine at 4C, though. You'll probably need to calibrate the pump. We run ours at 0.5-1.0 L / min (around 70-90 on our dial).
 
 ### Wiring
 
@@ -25,7 +25,7 @@ You plug the power supply into the back of the Pulsewave. When they are connecte
 I recommend getting a hold of a cheap low voltage power supply and digital multimeter just to convince yourself that the switching works the way you expect it to. For example, program the start time for 10 seconds and the end time for 10 seconds and set the ratio to 2. Set the run time to at least 0.1 hours (it will turn off after run time has elapsed, so if you're fiddling around for more than 6 minutes, increase the run time). If all is well, if you set your power supply to be 10V, then you should see the digital multimeter spend 10 seconds at 10V and 5 seconds at -10V and this pattern will be repeated as long as the run is active.
 
 ### The final setup
-This is what the final setup looks like. While in use, the flask sits on the stirrer (unheated of course) and has a stir bar in it. The wires lead out of the chromatography refrigerator to the Pulsewave and the power supply and the multimeter.
+This is what the final setup looks like. While in use, the flask sits on the stirrer (unheated of course) and has a stir bar in it. The wires lead out of the chromatography refrigerator to the Pulsewave and the power supply and the multimeter. We put everything in the 4C to prevent overheating and because we don't have a chiller.
 
 <img src="PFGE_ChromFridge.jpg" width="360">
 
