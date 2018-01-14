@@ -40,3 +40,7 @@ This is what the final setup looks like. While in use, the flask sits on the sti
 * [MP-1015 Multi-Purpose Electrophoresis System with buffer recirculation ports](https://www.ibisci.com/product-category/electrophoresis/horizontalelectrophoresis/horizontalelectrophoresis-mp1015)
 * [Digital Multimeter](https://www.amazon.com/UNI-T-UT61D-True-Digital-Multimeter/dp/B00BRKYL7A/) (generally useful, but essential for troubleshooting)
 * [Cheap, low voltage power supply](https://www.amazon.com/Tekpower-Variable-Supply-1-5-15-HY152A/dp/B000RO8J98) (useful for troubleshooting)
+
+## Correcting the Site Frequency Spectrum for Ascertainment Bias and Error
+
+[In one of my papers](http://emersonlab.org/publications/#p10), I had to correct the SFS for ascertainment bias and error due to the sampling scheme and high error rate of microarrays. The supporting online information describes it in detail, but [here is a visual overview of the correction](AB_FP_FN.pptx).
